@@ -14,7 +14,7 @@ import org.openqa.selenium.support.ui.*;
 import java.util.concurrent.TimeUnit;
 import java.text.SimpleDateFormat
 
-class PageStearing extends PageObject {
+class PageSteering extends PageObject {
 
     public static WebDriver webDriver;
 
